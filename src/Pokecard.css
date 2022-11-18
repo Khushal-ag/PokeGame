@@ -15,6 +15,7 @@
     border-radius: 4px;
     height: 250px;
     margin: 1rem;
+    box-shadow: 5px 7px 10px -6px rgba(0, 0, 0, 0.56);
 }
 .Pokecard img{
     transition: all ease 300ms;
